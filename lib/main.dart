@@ -99,7 +99,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'O botao foi pressionado:',
+              'O botao foi apertado:',
               style: TextStyle(color: Colors.green),
             ),
             Text(
